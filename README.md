@@ -39,9 +39,3 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-a9b500?style=flat&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-757d00?style=flat&logo=mongodb)
 
-
-[![Leinadium's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leinadium&theme=blue-green)](https://github.com/Leinadium)
-
-
-[![Leinadium's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leinadium&hide=jupyter%20notebook&langs_count=4&layout=compact&theme=blue-green)](https://github.com/Leinadium)
- 
