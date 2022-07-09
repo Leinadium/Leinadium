@@ -39,3 +39,27 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-a9b500?style=flat&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-757d00?style=flat&logo=mongodb)
 
+---
+### Repositories 📚
+
+```json
+{
+  "Projects for PUC-Rio": {
+    "ENG1419 Programação de Microcontroladores": "puc-projeto-micro",
+    "INF1771 Inteligência Artificial": ["puc-drone-battle-rust", "puc-drone-battle", "puc-prolog-inf1771"],
+    "INF1316 Sistemas Operacionais": "puc-sistemas-operacionais",
+    "ENG1116 Computação Quântica": "puc-computacao-quantica",
+    "INF1608 Análise Numérica": ["puc-analise-numerica", "puc-simulacao-tecido"],
+    "INF1406 Programação Distribuída": ["puc-servidores-mqtt", "puc-hash-distribuido"],
+    "INF1022 Analisadores Léxicos": "puc-compiladorProvolone",
+  },
+  "Personal projects": {
+    "Biblioteca de download do Microhorario para Python": "microhorario-dl",
+    "Classificação de produções para meio ambiente (PIBIC)": "nima-predict",
+    "Visualização do Show de Talentos do YTHCamp": "pib-show-talentos",
+    "Ferramenta para detecção de referências bíblicas em textos livres": "bible-match",
+    "Competition Bot for r/Cubers": "competition-bot",
+    "WCA Competitions Visualization": "WCAYear",
+  }
+}
+```
