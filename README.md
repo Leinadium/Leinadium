@@ -42,24 +42,18 @@
 ---
 ### Repositories 📚
 
-```json
-{
-  "Projects for PUC-Rio": {
-    "ENG1419 Programação de Microcontroladores": "puc-projeto-micro",
-    "INF1771 Inteligência Artificial": ["puc-drone-battle-rust", "puc-drone-battle", "puc-prolog-inf1771"],
-    "INF1316 Sistemas Operacionais": "puc-sistemas-operacionais",
-    "ENG1116 Computação Quântica": "puc-computacao-quantica",
-    "INF1608 Análise Numérica": ["puc-analise-numerica", "puc-simulacao-tecido"],
-    "INF1406 Programação Distribuída": ["puc-servidores-mqtt", "puc-hash-distribuido"],
-    "INF1022 Analisadores Léxicos": "puc-compiladorProvolone",
-  },
-  "Personal projects": {
-    "Biblioteca de download do Microhorario para Python": "microhorario-dl",
-    "Classificação de produções para meio ambiente (PIBIC)": "nima-predict",
-    "Visualização do Show de Talentos do YTHCamp": "pib-show-talentos",
-    "Ferramenta para detecção de referências bíblicas em textos livres": "bible-match",
-    "Competition Bot for r/Cubers": "competition-bot",
-    "WCA Competitions Visualization": "WCAYear",
-  }
-}
-```
+- **Projects at PUC-Rio**
+  - **ENG1419** *Programação de Microcontroladores*: [puc-projeto-micro](https://github.com/Leinadium/puc-projeto-micro)
+  - **INF1771** *Inteligência Artificial*: [puc-labirinto](https://github.com/Leinadium/puc-labirinto), [puc-prolog-inf1771](https://github.com/Leinadium/puc-prolog-inf1771), [puc-drone-battle](https://github.com/Leinadium/puc-drone-battle) e [puc-drone-battle-rust](https://github.com/Leinadium/puc-drone-battle-rust)
+  - **INF1316** *Sistemas Operacionais*: [puc-sistemas-operacionais](https://github.com/Leinadium/puc-sistemas-operacionais)
+  - **ENG1116** *Computação Quântica*: [puc-computacao-quantica](https://github.com/Leinadium/puc-computacao-quantica)
+  - **INF1608** *Análise Numérica*: [puc-analise-numerica](https://github.com/Leinadium/puc-analise-numerica) e [puc-simulacao-tecido](https://github.com/Leinadium/puc-simulacao-tecido)
+  - **INF1406** *Programação Distribuída*: [puc-hash-distribuido](https://github.com/Leinadium/puc-hash-distribuido) e [puc-servidores-mqtt](https://github.com/Leinadium/puc-servidores-mqtt)
+  - **INF1022** *Analisadores Léxicos*: [puc-compiladorProvolone](https://github.com/Leinadium/puc-compiladorProvolone)
+- **Personal Projects**
+  - *[microhorario-dl](https://github.com/Leinadium/microhorario-dl)*: Biblioteca Python de download do Microhorário,
+  - *[nima-predict](https://github.com/Leinadium/nima-predict)*: Classificação de produções para meio ambiente (IC),
+  - *[pib-show-talentos](https://github.com/Leinadium/pib-show-talentos)*: Tela do show de talentos do YTHCamp 2022,
+  - *[bible-match](https://github.com/Leinadium/bible-match)*: Ferramenta para detecção de referências bíblicas,
+  - *[competition-bot](https://github.com/Leinadium/competition-bot)*: Competition Bot for [r/Cubers](reddit.com/r/Cubers),
+  - *[WCAYear](https://github.com/Leinadium/WCAYear)*: Visualization for WCA Competitions
