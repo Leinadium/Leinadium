@@ -12,32 +12,29 @@
 ![Python](https://img.shields.io/badge/-Python-00c226?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-007817?style=flat&logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00c226?style=flat&logo=postgresql)
-![Intellij](https://img.shields.io/badge/-Intellij-007817?style=flat&logo=intellijidea)
-![PyCharm](https://img.shields.io/badge/-PyCharm-00c226?style=flat&logo=pycharm)
-![Git](https://img.shields.io/badge/-Git-007817?style=flat&logo=git)
+![Redis](https://img.shields.io/badge/-Redis-007817?style=flat&logo=redis)
 
 ---
 ### Learning ⚙
 
-![Javascript](https://img.shields.io/badge/-Javascript-008fa8?style=flat&logo=javascript)
+![Docker](https://img.shields.io/badge/-Docker-008fa8?style=flat&logo=docker)
 ![Rust](https://img.shields.io/badge/-Rust-004552?style=flat&logo=rust)
-![Java](https://img.shields.io/badge/-Java-008fa8?style=flat&logo=java)
-![Allegro](https://img.shields.io/badge/-Allegro-004552?style=flat&logo=allegro)
-![vscode](https://img.shields.io/badge/-vsCode-008fa8?style=flat&logo=visualstudiocode)
-![Django](https://img.shields.io/badge/-Django-004552?style=flat&logo=django)
-![C](https://img.shields.io/badge/-C-008fa8?style=flat&logo=c)
-![Keras](https://img.shields.io/badge/-Keras-004552?style=flat&logo=keras)
-![Docker](https://img.shields.io/badge/-Docker-008fa8?style=flat&logo=docker) 
+![React](https://img.shields.io/badge/-React-008fa8?style=flat&logo=react)
+![Java](https://img.shields.io/badge/-Java-004552?style=flat&logo=java)
+![Javascript](https://img.shields.io/badge/-Javascript-008fa8?style=flat&logo=javascript)
+![AllegroGraph](https://img.shields.io/badge/-Allegro-004552?style=flat&logo=allegro)
+![Django](https://img.shields.io/badge/-Django-008fa8?style=flat&logo=django)
+![C](https://img.shields.io/badge/-C-004552?style=flat&logo=c)
+![Keras](https://img.shields.io/badge/-Keras-008fa8?style=flat&logo=keras) 
 
 ---
 ### Wishlist 💭
 
-![node.js](https://img.shields.io/badge/-Node.js-a9b500?style=flat&logo=nodedotjs)
-![React](https://img.shields.io/badge/-React-757d00?style=flat&logo=react)
 ![Go](https://img.shields.io/badge/-Go-a9b500?style=flat&logo=go)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-757d00?style=flat&logo=graphql)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-a9b500?style=flat&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-757d00?style=flat&logo=mongodb)
+![node.js](https://img.shields.io/badge/-Node.js-a9b500?style=flat&logo=nodedotjs)
 
 ---
 ### Repositories 📚
