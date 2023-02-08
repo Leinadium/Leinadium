@@ -11,30 +11,27 @@
 
 ![Python](https://img.shields.io/badge/-Python-00c226?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-007817?style=flat&logo=flask)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00c226?style=flat&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-007817?style=flat&logo=redis)
+![Rust](https://img.shields.io/badge/-Rust-00c226?style=flat&logo=rust)
+![Go](https://img.shields.io/badge/-Go-007817?style=flat&logo=go)
+![Redis](https://img.shields.io/badge/-Redis-00c226?style=flat&logo=redis)
 
 ---
 ### Learning ⚙
 
 ![Docker](https://img.shields.io/badge/-Docker-008fa8?style=flat&logo=docker)
-![Rust](https://img.shields.io/badge/-Rust-004552?style=flat&logo=rust)
-![React](https://img.shields.io/badge/-React-008fa8?style=flat&logo=react)
-![Java](https://img.shields.io/badge/-Java-004552?style=flat&logo=java)
-![Javascript](https://img.shields.io/badge/-Javascript-008fa8?style=flat&logo=javascript)
-![AllegroGraph](https://img.shields.io/badge/-Allegro-004552?style=flat&logo=allegro)
+![React](https://img.shields.io/badge/-React-004552?style=flat&logo=react)
+![Java](https://img.shields.io/badge/-Java-008fa8?style=flat&logo=java)
+![Javascript](https://img.shields.io/badge/-Javascript-004552?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-008fa8?style=flat&logo=django)
 ![C](https://img.shields.io/badge/-C-004552?style=flat&logo=c)
-![Keras](https://img.shields.io/badge/-Keras-008fa8?style=flat&logo=keras) 
+![node.js](https://img.shields.io/badge/-Node.js-008fa8?style=flat&logo=nodedotjs)
 
 ---
 ### Wishlist 💭
 
-![Go](https://img.shields.io/badge/-Go-a9b500?style=flat&logo=go)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-757d00?style=flat&logo=graphql)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-a9b500?style=flat&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-757d00?style=flat&logo=mongodb)
-![node.js](https://img.shields.io/badge/-Node.js-a9b500?style=flat&logo=nodedotjs)
 
 ---
 ### Repositories 📚
