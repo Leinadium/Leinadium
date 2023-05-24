@@ -16,10 +16,10 @@
 ![JS](https://img.shields.io/badge/-JS-604BEB?style=flat&logo=javascript)
 
 
-![Flask](https://img.shields.io/badge/-Flask-EB351C?style=flat&logo=flask)
-![Svelte](https://img.shields.io/badge/-Svelte-EBD128?style=flat&logo=svelte)
-![Redis](https://img.shields.io/badge/-Redis-EB351C?style=flat&logo=redis)
-![Docker](https://img.shields.io/badge/-Docker-EBD128?style=flat&logo=docker)
+![Flask](https://img.shields.io/badge/-Flask-604BEB?style=flat&logo=flask)
+![Svelte](https://img.shields.io/badge/-Svelte-1CEB87?style=flat&logo=svelte)
+![Redis](https://img.shields.io/badge/-Redis-604BEB?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-1CEB87?style=flat&logo=docker)
 
 ---
 ### Repositories 📚
