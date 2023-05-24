@@ -2,35 +2,24 @@
 
 ### About 💻
 
-![Computer Engineer - PUC Rio](https://badgen.net/badge/%F0%9F%93%95%20%20Student%20at/Computer%20Engineer%20-%20PUC%20Rio/green/)
-![Exacta - PUC Rio](https://badgen.net/badge/%F0%9F%92%BC%20Working%20at/Exacta%20-%20PUC%20Rio/8A38FE/)
+1CEB87
+
+![Computer Engineer - PUC Rio](https://badgen.net/badge/%F0%9F%93%95%20%20Student%20at/Computer%20Engineer%20-%20PUC%20Rio/1CEB87/)
+![Exacta - PUC Rio](https://badgen.net/badge/%F0%9F%92%BC%20Working%20at/Exacta%20-%20PUC%20Rio/604BEB/)
 
 ---
-### Best at ✅ 
+### Experience in ✅ 
 
-![Python](https://img.shields.io/badge/-Python-00c226?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-007817?style=flat&logo=flask)
-![Rust](https://img.shields.io/badge/-Rust-00c226?style=flat&logo=rust)
-![Go](https://img.shields.io/badge/-Go-007817?style=flat&logo=go)
-![Redis](https://img.shields.io/badge/-Redis-00c226?style=flat&logo=redis)
+![Python](https://img.shields.io/badge/-Python-1CEB87?style=flat&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-604BEB?style=flat&logo=rust)
+![Go](https://img.shields.io/badge/-Go-1CEB87?style=flat&logo=go)
+![JS](https://img.shields.io/badge/-JS-604BEB?style=flat&logo=javascript)
 
----
-### Learning ⚙
 
-![Docker](https://img.shields.io/badge/-Docker-008fa8?style=flat&logo=docker)
-![React](https://img.shields.io/badge/-React-004552?style=flat&logo=react)
-![Java](https://img.shields.io/badge/-Java-008fa8?style=flat&logo=java)
-![Javascript](https://img.shields.io/badge/-Javascript-004552?style=flat&logo=javascript)
-![Django](https://img.shields.io/badge/-Django-008fa8?style=flat&logo=django)
-![C](https://img.shields.io/badge/-C-004552?style=flat&logo=c)
-![node.js](https://img.shields.io/badge/-Node.js-008fa8?style=flat&logo=nodedotjs)
-
----
-### Wishlist 💭
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-757d00?style=flat&logo=graphql)
-![FastAPI](https://img.shields.io/badge/-FastAPI-a9b500?style=flat&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/-MongoDB-757d00?style=flat&logo=mongodb)
+![Flask](https://img.shields.io/badge/-Flask-EB351C?style=flat&logo=flask)
+![Svelte](https://img.shields.io/badge/-Svelte-EBD128?style=flat&logo=svelte)
+![Redis](https://img.shields.io/badge/-Redis-EB351C?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-EBD128?style=flat&logo=docker)
 
 ---
 ### Repositories 📚
