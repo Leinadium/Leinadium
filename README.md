@@ -3,7 +3,7 @@
 ### About 💻
 
 ![Computer Engineer - PUC Rio](https://badgen.net/badge/%F0%9F%93%95%20%20Student%20at/Computer%20Engineer%20-%20PUC%20Rio/green/)
-![Semantix Labs - PUC Rio](https://badgen.net/badge/%F0%9F%92%BC%20Working%20at/Semantix%20Labs%20-%20PUC%20Rio/8A38FE/)
+![Exacta - PUC Rio](https://badgen.net/badge/%F0%9F%92%BC%20Working%20at/Exacta%20-%20PUC%20Rio/8A38FE/)
 
 ---
 ### Best at ✅ 
