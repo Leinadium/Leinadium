@@ -2,8 +2,8 @@
 
 ### About 💻
 
-![Computer Engineer - PUC Rio](https://badgen.net/badge/%F0%9F%93%95%20%20Student%20at/Computer%20Engineer%20-%20PUC%20Rio/0C945B/)
-![Exacta - PUC Rio](https://badgen.net/badge/%F0%9F%92%BC%20Working%20at/Exacta%20-%20PUC%20Rio/058BA1/)
+![Computer Engineer - PUC Rio](https://badgen.net/badge/%F0%9F%93%95%20%20Student%20at/PUC%20Rio%20-%20Computer%20Engineer/0C945B/)
+![Exacta - PUC Rio](https://badgen.net/badge/%F0%9F%92%BC%20Working%20at/OceanPact/00425C/)
 
 ---
 ### Experience in ✅ 
