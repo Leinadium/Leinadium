@@ -12,7 +12,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-058BA1?style=flat&logo=rust)
 ![Go](https://img.shields.io/badge/-Go-0C945B?style=flat&logo=go)
 ![JS](https://img.shields.io/badge/-JS-058BA1?style=flat&logo=javascript)
-
+![Kotlin](https://img.shields.io/badge/-Kotlin-0C945B?style=flat&logo=kotlin)
 
 ![Flask](https://img.shields.io/badge/-Flask-058BA1?style=flat&logo=flask)
 ![Svelte](https://img.shields.io/badge/-Svelte-0C945B?style=flat&logo=svelte)
