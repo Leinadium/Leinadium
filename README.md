@@ -1,9 +1,9 @@
-## Daniel Guimarães 🌐 @Leinadium
+## Daniel Guimarães | @Leinadium
 
 ### About 💻
 
-![Computer Engineer - PUC Rio](https://badgen.net/badge/%F0%9F%93%95%20%20Student%20at/PUC%20Rio%20-%20Computer%20Engineer/0C945B/)
-![Exacta - PUC Rio](https://badgen.net/badge/%F0%9F%92%BC%20Working%20at/OceanPact/00425C/)
+![Computer Engineer - PUC Rio](https://badgen.net/badge/%F0%9F%8E%93%20%20PUC%20-%20Rio/Computer%20Engineer/0C945B/)
+![OceanPact](https://badgen.net/badge/%F0%9F%92%BC%20Working%20at/OceanPact/00425C/)
 
 ---
 ### Experience in ✅ 
